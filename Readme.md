@@ -14,6 +14,9 @@
 * [ScriptRecurrenceForm.ascx.cs](./CS/WebSite/UserForms/ScriptRecurrenceForm.ascx.cs) (VB: [ScriptRecurrenceForm.ascx.vb](./VB/WebSite/UserForms/ScriptRecurrenceForm.ascx.vb))
 <!-- default file list end -->
 # How to implement a client-side appointment editing form with custom fields
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1547/)**
+<!-- run online end -->
 
 
 <p>This example illustrates the use of the client-side appointment objects and methods to implement an appointment editing forms with custom fields that operate via client scripts.<br />
